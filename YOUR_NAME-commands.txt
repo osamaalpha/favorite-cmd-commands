@@ -1,0 +1,5 @@
+$ cd (a navigating command throw your directories )
+
+$ touch (creating any kind of files )
+
+$ git push (uploading existing or modified repository to github)
